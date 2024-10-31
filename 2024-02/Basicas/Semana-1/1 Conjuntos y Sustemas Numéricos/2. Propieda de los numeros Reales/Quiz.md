@@ -1,8 +1,17 @@
 # Quiz 2 Semana 1
 
-1. El mínimo común denominador de las fracciones $\frac{A}{1296}$, $\frac{B}{1944}$ y $\frac{C}{150}$
+## 1
 
-2. El número $\frac{63}{2781}$ está en forma reducida?
+### Enunciado
+
+El mínimo común denominador de las fracciones $\frac{A}{1296}$, $\frac{B}{1944}$ y $\frac{C}{150}$
+
+### Solución
+
+
+## 2
+
+El número $\frac{63}{2781}$ está en forma reducida?
 
 Un número racional es un número de la forma $\frac{p}{q}$ con $p, q \in \mathbb{Z}$
 
