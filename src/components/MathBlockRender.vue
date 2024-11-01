@@ -1,9 +1,7 @@
 <template>
-  <div id="example" v-html="example"></div>
+  <div id="example" v-html="Quiz"></div>
 </template>
-<script setup lang="ts">
+<script setup>
 import example from "../example.md";
-const props = defineProps({
-  msg: String,
-});
+import Quiz from "../content/Quiz.md"
 </script>
