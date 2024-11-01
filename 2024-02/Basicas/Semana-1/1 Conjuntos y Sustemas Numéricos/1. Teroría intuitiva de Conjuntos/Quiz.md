@@ -33,7 +33,7 @@ Sean: $A = {-2,-1,0,1,2,3}; B = {2,3,4,5,6};C = {1,3,5,7}$
 6. $(B∩C) - A = ∅$
 7. $B - (A∪C) = {4,6}$
 
-[Excalidraw Solucion 4](./main.excalidraw)
+[Excalidraw Solution 3](./main.excalidraw)
 
 - $B = 23$
 - $A = 17$
@@ -47,14 +47,20 @@ Sean: $A = {-2,-1,0,1,2,3}; B = {2,3,4,5,6};C = {1,3,5,7}$
 
 De una encuesta realizada a 604 personas de una empresa, se obtiene la siguiente información: 372 personas son casadas, 212 personas nacieron en Bogota, 200 son hombres casados, 110 son hombres nacidos en Bogota, 26 son hombres casados nacidos en Bogota, 70 hombres son solteros nacidos fuera de Bogota y las mujeres no bogotanas son 130.
 
-### 1
-
-#### Q
+### Q5.1
 
 cuantos hombres casados nacieron fuera de Bogota?
 
-#### R
+#### R5.1
 
-En una institucion educativa, el 50% de los alumnos aprobo fisica; el 42% quimica y el 56% uno y solo uno de los cursos mencionados previamente. Ademas, 666 alumnos aprobaron fisica y quimica
+### Q5.2
 
-Cuantos estudiates hay en la institucion?
+En una institución educativa, el 50% de los alumnos aprobó física; el 42% química y el 56% uno y solo uno de los cursos mencionados previamente. Ademas, 666 alumnos aprobaron física y química
+
+#### R5.2
+
+### Q5.3
+
+Cuantos estudiares hay en la institución?
+
+#### R5.3
