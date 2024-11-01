@@ -1,6 +1,6 @@
-# Conjuntos y Sustemas Numéricos
+# Conjuntos y Sistemas Numéricos
 
-En esta unidad estudiaremos los concpetos básicos de la teoría de conjuntos y los sistemas numéricos.
+En esta unidad estudiaremos los conceptos básicos de la teoría de conjuntos y los sistemas numéricos.
 
 ## Indice
 

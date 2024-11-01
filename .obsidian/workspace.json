@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "2c37bc3c2af8f1d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ef01d17753935d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73e9b3f4794fc1e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-02/Basicas/Semana-1/1 Conjuntos y Sustemas Numéricos/1. Teroría intuitiva de Conjuntos/Quiz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quiz"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6008c6ff5f4cd5c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cd18be3dfb3eecc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f17462248142951a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a7b95c97ffef892e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a04854585eff0340",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3893b0df2dc24242",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7d29aef0c988bc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e39d970d8c6f8425",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-02/Basicas/Semana-1/1 Conjuntos y Sustemas Numéricos/1. Teroría intuitiva de Conjuntos/Quiz.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Quiz"
+            }
+          },
+          {
+            "id": "4aa840977716030f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-02/Basicas/Semana-1/1 Conjuntos y Sustemas Numéricos/1. Teroría intuitiva de Conjuntos/Quiz.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Quiz"
+            }
+          },
+          {
+            "id": "b8aa2d92c0752fd1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5203470cc274c1e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-02/Basicas/Semana-1/1 Conjuntos y Sustemas Numéricos/1. Teroría intuitiva de Conjuntos/Quiz.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Quiz"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "73e9b3f4794fc1e2",
+  "lastOpenFiles": [
+    "2024-02/Basicas/Semana-1/1 Conjuntos y Sustemas Numéricos/1. Teroría intuitiva de Conjuntos/Tema01.pdf",
+    "2024-02/Basicas/Semana-1/1 Conjuntos y Sustemas Numéricos/1. Teroría intuitiva de Conjuntos/Quiz.md",
+    "2024-02/Basicas/Semana-1/1 Conjuntos y Sustemas Numéricos/1. Teroría intuitiva de Conjuntos/[02.2020 - MBas] Taller 01.pdf",
+    "2024-02/Basicas/Semana-1/1 Conjuntos y Sustemas Numéricos/1. Teroría intuitiva de Conjuntos/readme.md",
+    "2024-02/Basicas/Semana-1/1 Conjuntos y Sustemas Numéricos/1. Teroría intuitiva de Conjuntos/index.md",
+    "src/content/Quiz.md",
+    "src/example.md",
+    "README.md",
+    "2024-02/Basicas/Semana-1/1 Conjuntos y Sustemas Numéricos/1. Teroría intuitiva de Conjuntos/Simbolos.md",
+    "2024-02/Basicas/Semana-1/1 Conjuntos y Sustemas Numéricos/1. Teroría intuitiva de Conjuntos/main.excalidraw",
+    "2024-02/Basicas/Semana-1/1 Conjuntos y Sustemas Numéricos/2. Propieda de los numeros Reales/Quiz.md",
+    "2024-02/Basicas/Semana-1/1 Conjuntos y Sustemas Numéricos/readme.md"
+  ]
+}
