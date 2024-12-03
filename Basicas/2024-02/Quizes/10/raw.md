@@ -17,7 +17,7 @@ a
 19*\sqrt[5]{z}
 }
 $$
-, donde a y z son numeros enteros y z el menor valor posible.
+, donde a y z son números enteros y z el menor valor posible.
 
 al dividir 622 entre $7\sqrt{7}-4\sqrt{2}$, el resultado se puede escribir como un numero de la forma $m\sqrt{7}+n\sqrt{2}$ donde m y n son enteros. cuales son sus valores?
 
@@ -31,7 +31,7 @@ x-1
 } - \frac{
 2
 }{
-x+2
+x+1
 }
 }{
 \frac{
@@ -45,14 +45,14 @@ x+1
 }
 }
 $$
-a. \frac{3}{x-1}
-b. \frac{5}{x-1}
-c. \frac{3x}{x^2-1}
-d. \frac{5}{x-1}
-e. \frac{5x}{x^2-1}
-f. \frac{3}{x+1}
-g. \frac{3x+3}{x^2+2x-1}
-h. \frac{3x+7}{x^2+2x-1}
+a. $\frac{3}{x-1}$
+b. $\frac{5}{x-1}$
+c. $\frac{3x}{x^2-1}$
+d. $\frac{5}{x-1}$
+e. $\frac{5x}{x^2-1}$
+f. $\frac{3}{x+1}$
+g. $\frac{3x+3}{x^2+2x-1}$
+h. $\frac{3x+7}{x^2+2x-1}$
 
 al efectuar las operaciones y simplificar $\frac{x}{x^2-4}+\frac{1}{x-2}$ se obtiene:
 a $\frac{x+2}{x^2-4}$
@@ -108,3 +108,76 @@ $$
 $$
 se obtiene una fracción de la forma $\frac{Ax^2+Bx+C}{x+D}$
 donde A, B, C y D son nuemeros enteros, cuales son los valores:
+
+Al simplificar $\frac{y^2+y}{y^2-1}$ se obtiene:
+
+al operar y simplificar
+$$
+\frac{
+    125x^3 + 512
+}{
+    x^2 - 49
+}
+÷
+\frac{
+    5x + 8
+}{
+    x + 7
+}
+$$
+se obtiene una fracción de la forma $\frac{Ax^2+Bx+C}{x+D}$
+donde A, B, C y D son nuemeros enteros, cuales son los valores:
+
+para todo valor de b y c se cumple que $\frac{b}{b-c}=1-\frac{b}{c}$ verdad o falso?
+
+al racionalizar el denominador en $\frac{1}{\sqrt[3]{x^2\sqrt{y}}}$ y simplificar se obtiene $\frac{\sqrt[3]{xy^{\frac{5}{2}}}}{xy}$
+
+Al simplificar la expresión 
+$$
+\frac{
+    1 + \frac{
+        1
+    }{
+        x
+    } - \frac{
+        72
+    }{
+        x^2
+    }
+}{
+    3 - \frac{
+        15
+    }{
+        x
+    } - \frac{
+        72
+    }{
+        x^2
+    }
+}
+$$
+se obtiene una fracción de la forma $\frac{x+a}{bx+c}$
+con a, b y c constantes. Los valores numéricos de dichas constantes son:
+
+al dividir 1677 entre $9\sqrt{7}-2\sqrt{2}$, el resultado se puede escribir como un numero de la forma $m\sqrt{7}+n\sqrt{2}$ donde m y n son enteros. cuales son sus valores?
+
+al efectuar las operaciones y simplificar $\frac{\frac{x^2}{x+1}}{\frac{x}{x^2+2x+1}}$
+
+se quiere racionalizar el numerador de la expresion $\frac{\sqrt[5]{2^3 \cdot 7^3 \cdot 11^4}}{19}$
+para ello, se debe multiplicar y dividir por $\sqrt[5]{z}$ de la manera:
+$$
+\frac{
+\sqrt[5]{2^3 \cdot 7^3 \cdot 11^4}
+}{
+19
+} \cdot \frac{
+\sqrt[5]{z}
+}{
+\sqrt[5]{z}
+} = \frac{
+a
+}{
+19*\sqrt[5]{z}
+}
+$$
+, donde a y z son números enteros y z el menor valor posible.
