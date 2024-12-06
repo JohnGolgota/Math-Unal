@@ -62,15 +62,22 @@ $$
 \forall n \in \mathbb{Z}, \exists m \in \mathbb{Z} : n = 2m + 1
 $$
 
-Sea n = 2k - 1, $m = k - 1$
-Veamos que: 2k - 1 = 2(k - 1) + 1
+Sea n = 2k - 1 veamos que n se puede escribir como 2m + 1 para algún $m \in \mathbb{Z}$
+Veamos que: 2k - 1 = 2m + 1
 Operamos:
-2k - 1 = 2(k - 1) + 1
+Restamos 1 a ambos lados de la igualdad; 2k - 2 = 2m
+Dividimos ambos lados de la igualdad por 2; k - 1 = m
+
+Si m = k - 1, entonces $m \in \mathbb{Z}$ porque $k \in \mathbb{Z}$
+Podemos escribir n = 2m + 1
+
+Sean n = 2k - 1 y m = k - 1
+Veamos que n = 2m + 1
+Sustituyendo 2k - 1 = 2(k - 1) + 1
+Operamos:
 2k - 1 = 2k - 2 + 1
-2k - 1 = 2k + 1
-
-2k - 1 es impar, por definición de impar
-
+2k - 1 = 2k - 1
+Esto demuestra que 2k - 1 cumple con la definición de impar.
 $$
 \square
 $$
