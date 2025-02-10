@@ -26,3 +26,5 @@ dist-ssr
 *.vite
 
 *copy*
+
+.obsidian
