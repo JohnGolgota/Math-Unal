@@ -20,10 +20,23 @@ m(t) = 5e^{-\frac{5}{100}t}
 $$,
 donde $m(t)$ se mide en kilogramos. En este caso, la mas inicial de la sustancia es de 5 kg y la tas relativa de decaimiento es de 5%. La masa, en kilogramos, que permanece de la sustancia después de 2 días es?
 
-Considere la función $f(x) = 1 - e^{-x}$ Seleccione las afirmaciones verdaderas sobre $f$:
+Considere la función $f(x) = 1 - e^{x}$ Seleccione las afirmaciones verdaderas sobre $f$:
 A. Una secuencia para obtener la gráfica de $f$ a partir de $y = e^x$ es desplazar una unidad hacia arriba y reflejar respecto al eje x.
 B. $y = 1$ es asíntota horizontal de la gráfica de $f$.
 C. $R_f = (-\infty, 1)$
 D. $D_f = \mathbb{R}$
 
 La población de cierto pueblo europeo fue de 170000 habitantes en el año 2005 observándose una tasa relativa de crecimiento del 2% por año. La población estimada para el año 2035 es?
+
+En un laboratorio, una muestra de suelo es sacada de una mufla, a una temperatura inicial de 90°C, a reposar en una mesa. La temperatura del laboratorio se conserva en 26°C.  Un modelo establece que la temperatura de la muestra de suelo, $T$, se puede calcular utilizando la siguiente relación:
+$$
+T=f(t)=T_m+A⋅2^{k⋅t}
+$$
+donde 
+- t es el tiempo que ha pasado desde que la muestra sale del horno, en minutos.
+- $T_m$ es la temperatura del medio en °C.
+- $A$ y $k$ son constantes por determinar, en °C y minutos^-1, respectivamente.
+Con base en la información dada, se puede decir que:
+- Si T=f(0) corresponde a la temperatura inicial, entonces A es igual a cuantos °C?.
+- 40 minutos después de sacar la muestra, se tiene una temperatura de 58°C, entonces la constante k es igual a cuantos minutos^-1?.
+- Pasados 80 minutos, el modelo predice que la temperatura de la muestra es igual a cuantos °C?.
